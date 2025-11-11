@@ -1,0 +1,6 @@
+{"level":"info","message":"Orders after adding a new order:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]","timestamp":"2025-11-05T20:22:42.313Z"}
+{"level":"info","message":"Total Revenue:108","timestamp":"2025-11-05T20:22:42.317Z"}
+{"level":"info","message":"Average Buy Power:18","timestamp":"2025-11-05T20:22:42.317Z"}
+{"id":2,"item":"Chocolate","level":"info","message":"Order with ID 2:","price":20,"timestamp":"2025-11-05T20:22:42.318Z"}
+{"level":"warn","message":"Order not found: 10","timestamp":"2025-11-05T20:22:42.319Z"}
+{"level":"info","message":"Order with ID 10 (non-existent):undefined","timestamp":"2025-11-05T20:22:42.319Z"}
