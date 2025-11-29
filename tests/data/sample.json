@@ -1,0 +1,10 @@
+{
+  "store": {
+    "name": "MiniMarket",
+    "location": "Paris",
+    "products": [
+      { "id": 1, "name": "Milk" },
+      { "id": 2, "name": "Bread" }
+    ]
+  }
+}

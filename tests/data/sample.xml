@@ -1,0 +1,14 @@
+<store>
+  <name>MiniMarket</name>
+  <location>Paris</location>
+  <products>
+    <product>
+      <id>1</id>
+      <name>Milk</name>
+    </product>
+    <product>
+      <id>2</id>
+      <name>Bread</name>
+    </product>
+  </products>
+</store>
